@@ -1,0 +1,1 @@
+<script>if(location.href.indexOf('/cg')!=-1){document.body.style.background = "url(https://photoapi.4xu.xyz/api) "; document.body.style.backgroundSize = "100% "; }else{document.body.style.background = "url(https://www.dmoe.cc/random.php) "; document.body.style.backgroundSize = "100% "; }</script>
